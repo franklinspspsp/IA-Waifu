@@ -1,2 +1,4 @@
 # IA-Waifu
-Copy
+Copia
+Tutorial: https://youtu.be/S2pHBk-coiU
+Veremos...
